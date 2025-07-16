@@ -1,4 +1,4 @@
-# Quera Problems Solutions 🚀
+# Quera Problemset Solutions 🚀
 
 This repository contains my solutions to various programming problems from [Quera](https://quera.org/).  
 I’m solving these problems mainly using **Python**
@@ -19,7 +19,7 @@ Each solution file usually contains:
 - Problem link (as comment)
 - Solution code
 
-Example in `python/problem_001.py`:
+Example in `python/main.py`:
 
 ```python
 # Problem: Sum of Two Numbers
